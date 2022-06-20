@@ -1,0 +1,68 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Privasi merupakan hal penting yang saat ini jadi salah satu konsen di dunia keamanan. Tidak hanya untuk ruang lingkup yang besar, tapi juga untuk ruang lingkup yang kecil seperti penggunaan smartphone.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Banyak orang yang merasa risih ketika smartphone-nya dipegang oleh orang lain, dan dengan sebab itulah smartphone menyediakan fitur kunci layar.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Fitur yang menjadikan smartphone tidak dapat digunakan selama kunci dari layar tersebut diberikan.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Fitur ini memang jadi primadona banyak orang untuk menjaga privasi mereka. Tetapi, fitur ini bukan tanpa cela, banyak orang-orang yang justru menjadi tambah penasaran ketika orang lain menggunakan fitur ini.",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Bagi kamu yang smartphone-nya sering jadi sasaran empuk bagi mereka-mereka yang kepo dan berusaha membuka kunci layar smartphone, kamu bisa baca artikel keren ini.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Ya, Katech.com, akan memberikan tips keren untuk mengetahui wajah seseorang yang berusaha membuka smartphone kamu.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "Setelah kamu mengetahui wajah seseorang yang berusaha membuka smartphone kamu, kamu bisa menegurnya untuk tidak melakukan hal yang sama.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Ataupun kamu bisa mempertimbangkan password atau pola yang baru untuk kunci layar smartphone kamu.",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Aplikasi yang akan kita gunakan untuk artikel ini adalah aplikasi bernama WTMP – Who touched my phone.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Aplikasi ini akan mengetahui siapa saja yang menggunakan smartphone kamu menggunakan kamera depan dalam mode latar belakang atau tidak terdeteksi.",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 11,
+    "title": "Tidak hanya itu, aplikasi ini juga akan menyajikan informasi tentang wajah siapa, kapan, dan apa yang dilakukan oleh orang tersebut selama menggunakan smartphone kamu.",
+    "completed": true
+  }
+  ]
