@@ -10,6 +10,7 @@ const navigation = [
   { name: 'Tutorial Pemula', href: 'Tutorial', current: false },
   { name: 'Tutorial Pro', href: 'TutorialPro', current: false },
   { name: 'Chord', href: 'Chord', current: false },
+  { name: 'API', href: 'Api', current: false },
 ]
 
 function classNames(...classes) {

@@ -12,6 +12,7 @@ const Mangu = lazy(() => import('./Mangu'));
 const Tulus = lazy(() => import('./Tulus'));
 const Akutenang = lazy(() => import('./Akutenang'));
 const Comingsoon = lazy(() => import('./Comingsoon'));
+const Api = lazy(() => import('./Api'));
 
 const App = () => (
 <Router>
@@ -28,6 +29,7 @@ const App = () => (
       <Route path="/Tulus" element={<Tulus />} />
       <Route path="/Akutenang" element={<Akutenang />} />
       <Route path="/Comingsoon" element={<Comingsoon />} />
+      <Route path="/Api" element={<Api />} />
       
       </Routes>
   </Suspense>
